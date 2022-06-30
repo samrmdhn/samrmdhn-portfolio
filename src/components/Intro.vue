@@ -437,9 +437,14 @@ export default {
         border-color: grey;
     }
 
+    
+
+@media only screen and (max-width: 428px) {
     .extension {
     display: none;
     }
+}
+
 
 @media only screen and (min-width: 990px) {
     .extension {
@@ -454,26 +459,7 @@ export default {
         -webkit-filter: grayscale(100%) brightness(80%) drop-shadow(0px -2px 35px #000000);
         -moz-filter: grayscale(100%) brightness(80%) drop-shadow(0px -2px 35px #000000);
     }
-
-    
 }
-   
 
-@media only screen and (min-width: 990px) {
-    .extension {
-        display: block;
-        z-index: 1;
-        height: 200px;
-        width: auto;
-        margin-top: 380px;
-        margin-left: 150px;
-        opacity: 95%;
-        filter: grayscale(30%) brightness(80%) drop-shadow(0px -2px 35px #000000);
-        -webkit-filter: grayscale(100%) brightness(80%) drop-shadow(0px -2px 35px #000000);
-        -moz-filter: grayscale(100%) brightness(80%) drop-shadow(0px -2px 35px #000000);
-    }
-
-
-}
     
 </style>
