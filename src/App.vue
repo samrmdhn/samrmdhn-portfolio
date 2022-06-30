@@ -63,4 +63,14 @@ ProjectsVue,
     
 }
 
+@font-face {
+  font-family: "Helvetica";
+  src: url('./assets/Helvetica.ttf');
+}
+
+@font-face {
+  font-family: "Happy Time";
+  src: url('./assets/HappyTime.otf');
+}
+
 </style>
