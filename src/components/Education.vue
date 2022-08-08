@@ -1,7 +1,7 @@
 <template>
     <div id="education" style="display: relative; margin-top: 20px;">
         <div class="judul paragraph2">EDUCATION</div>
-        <b-row style="border-top: 1px solid #6c757d; border-bottom: 1px solid #6c757d; margin-top: 20px">
+        <b-row style="border-top: 1px solid #6c757d; border-bottom: 1px solid #6c757d; margin-top: 20px; font-weight: bolder;">
             <b-col >Name</b-col>
             <b-col>Major</b-col>
             <b-col  >Years Active&Status</b-col>
@@ -20,22 +20,23 @@
         
         </b-row>
         <div id="work" class="judul paragraph2" style="margin-top: 20px">WORK EXPERIENCE</div>
-        <b-row>
-            <b-col style="border-top: 1px solid #6c757d; border-bottom: 1px solid #6c757d; margin-top: 20px;">Name</b-col>
+        <b-row style="border-top: 1px solid #6c757d; border-bottom: 1px solid #6c757d; margin-top: 20px; font-weight: bolder;">
+            <b-col >Name</b-col>
         
-            <b-col style="border-top: 1px solid #6c757d; border-bottom: 1px solid #6c757d; margin-top: 20px;">Years Active</b-col>
-            <b-col style="border-top: 1px solid #6c757d; border-bottom: 1px solid #6c757d; margin-top: 20px;">Description</b-col>
+            <b-col >Years Active</b-col>
+            <b-col >Description</b-col>
         </b-row>
         <b-row>
             <b-col >Dinas Kesehatan Kota Bandung (Intern)</b-col>
         
-            <b-col  s>April 2021 - June 2021</b-col>
+            <b-col >April 2021 - June 2021</b-col>
             <b-col >1. Collaborate with COVID-19 team to help one distric to another distcric about data. <br>
                 2. Entry COVID-19 patient's data from manual (paper) to system. <br>
                 3. Create a solution ideas by making a complaints system app for patients after vaccinated with Node.js
 
 </b-col>
         </b-row>
+        
     </div>
 </template>
 <script>

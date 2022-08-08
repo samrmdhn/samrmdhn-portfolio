@@ -1,21 +1,11 @@
 <template>
-  <div id="contact">
+  <div id="contact" style="margin-bottom: 50px;">
     <div class="judul paragraph2" style="font-size: 3rem; margin-top: 20px">CONTACT</div>
-    <b-container fluid style="position: relative; border-radius: 10px;">
-    <div class="div" style="    top: 40px;
-    left: 0;
-    font-size: 3vw;
-    z-index: 1;
-    position: absolute;">FOR <span style="font-family: Happy Time">COMMISSIONS </span>/ <br> COLLABORATIONS / <br> PROJECT</div>
-    <div class="div" style="        top: 20vw;
-    right: 0;
-    font-size: 3vw;
-    z-index: 1;
-    position: absolute;
-    text-align: right;">REACH ME <br>VIA EMAIL<br> <span style="font-family: Happy Time">syams.syair.r@gmail.com</span></div>
-     
-      
-    </b-container>
+    <div class="contact-content" style="margin-top: 20px">
+    Email: syams.syair.r@gmail.com <br/>
+            Phone Number: +6283829881172 <br/>
+            Social Media: instagram.com/samrmdhn
+        </div>
   </div>
 </template>
 
@@ -28,5 +18,17 @@ name: "Contact"
 <style>
 .judul {
     font-size: 3rem;
+}
+
+@media only screen and (max-width: 390px) {
+    
+    .contact-content {
+      text-align: center;
+    }
+
+   
+
+
+    
 }
 </style>
