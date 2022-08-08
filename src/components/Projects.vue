@@ -5,7 +5,7 @@
         <b-row>
 
             <b-col lg="6" sm="12" style="border: 1px solid #6c757d; align-items: center; justify-content: center; display: flex; padding: 20px;">
-            <img class="img-fluid lazyload" src="../assets/Strngrz.png" height="500" alt="">
+            <img class="img-fluid lazyload" src="../assets/strangerz-nograd.jpg" height="500" alt="">
             </b-col>
 
             <b-col lg="6" sm="12" style="border: 1px solid #6c757d; padding: 20px;" class="content-center">
@@ -52,29 +52,71 @@
     <b-container fluid >
         <b-row>
             <b-col lg="6" sm="12" style="border: 1px solid #6c757d; padding: 20px;" class="content-center" >
-           <img class="img-fluid lazyload" src="../assets/Vaksin.png" height="500" alt="" />
+           <img class="img-fluid lazyload" src="../assets/vaksin-nograd.jpg" height="500" alt="" />
             </b-col>
 
             <b-col lg="6" sm="12" style="border: 1px solid #6c757d; align-items: center; justify-content: center; display: flex; padding: 20px;;">
             
              <b-row style="text-align: center;">
                 <b-col>
-                    <div style="color: #d3ff52; border: 2px solid #6c757d; border-radius: 20px; width: 40%; color:#d3ff52; text-decoration: none; text-align: center; margin: 0 auto; margin-bottom: 20px; font-weight: bolder;">LAVAKBDG</div>
+                    <div style="color: #d3ff52; border: 2px solid #d3ff52; border-radius: 20px; width: 40%; color:#d3ff52; text-align: center; margin: 0 auto; margin-bottom: 20px; font-weight: bolder">LAVAKBDG</div>
                     <div style="font-weight: bolder;">COVID-19 COMPLAINTS APP IDEA</div>
                     <div style="font-weight: bolder;">FULLSTACK DEVELOPMENT</div>
                     <br>
                      <div style="text-align:"><span style="font-weight: bolder">DETAILS:</span> <br> 
                    
-                        <div>NODE.JS (USING EXPRESS.JS FRAMEWORK AND EJS AS TEMPLATE) <br>
-                        MONGODB FOR DATABASE <br>
+                        <div>NEXT.JS (FRONT END & BACK END USING REST API) <br>
+                        MONGODB ATLAS FOR DATABASE <br>
                         BOOTSTRAP FOR CSS <br>
+                        VERCEL FOR DEPLOY HOST <br>
+                        PHOTOSHOP FOR EFFECT IMAGE ASSETS
+                        <br>
+                        <a href="https://server-vaksin-samrmdhn.vercel.app" target="_blank">LIVE APP</a>
                        </div>
                    </div>
                     <div>
                         <table style="width: 50%; margin: 0 auto;">
-                            <td><img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="50" alt=""></td>
+                            <td><img class="img-fluid" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="50" alt=""></td>
                             <td> <img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height="50" alt=""></td>
                             <td><img class="img-fluid" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" height="50" alt=""></td>
+                        </table>
+                        
+                   
+                    
+                    
+                    </div>
+                </b-col>
+               
+            </b-row>
+            </b-col>
+        </b-row>
+    </b-container>
+
+    <b-container fluid >
+        <b-row>
+            <b-col lg="6" sm="12" style="border: 1px solid #6c757d; padding: 20px;" class="content-center" >
+           <img class="img-fluid lazyload" src="../assets/landingpage-nograd.jpg" height="500" alt="" />
+            </b-col>
+
+            <b-col lg="6" sm="12" style="border: 1px solid #6c757d; align-items: center; justify-content: center; display: flex; padding: 20px;;">
+            
+             <b-row style="text-align: center;">
+                <b-col>
+                    <div style="color: #d3ff52; border: 2px solid #d3ff52; border-radius: 20px; width: 40%; color:#d3ff52; text-align: center; margin: 0 auto; margin-bottom: 20px; font-weight: bolder">LANDING PAGE</div>
+                    <div style="font-weight: bolder;">COSMETIC LANDING PAGE</div>
+                    <br>
+                     <div style="text-align:"><span style="font-weight: bolder">DETAILS:</span> <br> 
+                   
+                        <div>
+                        IMAGE ASSETS FROM UNSPLASH <br>
+                        EFFECT USING PHOTOSHOP <br>
+                        BOOTSTRAP FOR CSS <br>
+                       </div>
+                   </div>
+                    <div>
+                        <table style="width: 20%; margin: 0 auto;">
+                            <td><img class="img-fluid" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="10" alt=""></td>
+                            <td><img class="img-fluid" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" height="0" alt=""></td>
                         </table>
                         
                    
